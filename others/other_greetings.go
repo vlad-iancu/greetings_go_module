@@ -1,4 +1,4 @@
-package other_greetings
+package others
 
 import (
 	"fmt"
